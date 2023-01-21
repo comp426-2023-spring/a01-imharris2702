@@ -1,0 +1,19 @@
+{
+  "name": "a01-webserver",
+  "version": "0.0.1",
+  "description": "This package is my first webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-imharris2702.git"
+  },
+  "author": "@imharris2702",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-imharris2702/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-imharris2702#readme"
+}
